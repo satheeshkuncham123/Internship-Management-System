@@ -1,1 +1,4 @@
 # Internship-Management-System
+The Internship Portal Management System helps the student of the university to find their internship easily. The system has two users the admin and students. The admin users manage/maintain the data of the system such as the Internship application. The admin is in charge of populating the list of Internship Job Availability. The student user can explore/find their desired internship job and can send their application. Any students have the privilege to apply for the posted interns but only those who are registered can apply for the post.
+
+The project was build using PHP, HTML 5, Bootstrap, CSS, JS, and MySQL Database. The source code is free to download. Feel Free to download and modify the source code the way you wanted. Continue reading for more information about this PHP Project.
